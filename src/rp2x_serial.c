@@ -55,6 +55,3 @@ int rp2x_serial_open(char *dev, int vtime, int vmin, uint baud) {
 
 	return serial_port;
 }
-
-int main() {
-}
